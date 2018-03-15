@@ -1,2 +1,2 @@
-# my-page
+# My Website
 My personal website for portfolio and contact information.
